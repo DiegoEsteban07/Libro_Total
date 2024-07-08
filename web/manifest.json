@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "librototal",
     "short_name": "librototal",
+=======
+    "name": "proyecto",
+    "short_name": "proyecto",
+>>>>>>> 861f73c (adelanto de Home)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

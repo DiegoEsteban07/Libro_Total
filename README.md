@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # librototal
+=======
+# proyecto
+>>>>>>> 861f73c (adelanto de Home)
 
 A new Flutter project.
 
